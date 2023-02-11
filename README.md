@@ -19,13 +19,13 @@
                 <th>Status</th>
             </tr>
             <tr>
-                <td><a href="https://web.dio.me/course/introducao-a-plataforma-java/learning/cdc0426c-9371-4af8-aaf0-23fffca6218f?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Introdução à Plataforma Java</a></td>
+                <td><a href="https://web.dio.me/course/introducao-a-plataforma-java/learning/cdc0426c-9371-4af8-aaf0-23fffca6218f?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Introdução à Plataforma Java - Introdução e Objetivos</a></td>
                 <td><a href="#">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Fórmula de Bhaskara</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/F%C3%B3rmula%20de%20Bhaskara">Código</a></td>
+                <td><a href="https://web.dio.me/course/ambiente-de-desenvolvimento-java/learning/c88e693f-67ca-4885-a1d1-0069da2aef10?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Código</a>Ambiente de Desenvolvimento Java - Introdução a IDEs</td>
+                <td><a href="#">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
