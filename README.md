@@ -19,8 +19,8 @@
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Introdução à Plataforma Java</td>
-                <td><a href="https://web.dio.me/course/introducao-a-plataforma-java/learning/cdc0426c-9371-4af8-aaf0-23fffca6218f?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Código</a></td>
+                <td><a href="https://web.dio.me/course/introducao-a-plataforma-java/learning/cdc0426c-9371-4af8-aaf0-23fffca6218f?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Introdução à Plataforma Java</a></td>
+                <td><a href="#">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
