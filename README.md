@@ -5,22 +5,22 @@
     <summary><strong>Criando um plano de estudos para Java</strong></summary>
     <br />
     <div align="left">
-        <!-- Introdução à Plataforma Java -->
+        <!-- Básico -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-21-gft/algorithm/fibonacci-facil?back=/tests/d32632f6-a3f6-4081-a64b-6397e9d02f15">Introdução à Plataforma Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-21-gft/algorithm/fibonacci-facil?back=/tests/d32632f6-a3f6-4081-a64b-6397e9d02f15">Básico</a></th>
             </tr>
             <tr>
-                <th colspan="3">Introdução à Plataforma Java</th>
+                <th colspan="3">Básico</th>
             </tr>
             <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
+                <th>Curso</th>
+                <th>Código</th>
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Cálculo Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/C%C3%A1lculo%20Simples">Código</a></td>
+                <td>Introdução à Plataforma Java</td>
+                <td><a href="https://web.dio.me/course/introducao-a-plataforma-java/learning/cdc0426c-9371-4af8-aaf0-23fffca6218f?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
