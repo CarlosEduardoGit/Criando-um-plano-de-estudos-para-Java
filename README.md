@@ -24,7 +24,7 @@
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td><a href="https://web.dio.me/course/ambiente-de-desenvolvimento-java/learning/c88e693f-67ca-4885-a1d1-0069da2aef10?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Código</a>Ambiente de Desenvolvimento Java - Introdução a IDEs</td>
+                <td><a href="https://web.dio.me/course/ambiente-de-desenvolvimento-java/learning/c88e693f-67ca-4885-a1d1-0069da2aef10?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Ambiente de Desenvolvimento Java - Introdução a IDEs</a></td>
                 <td><a href="#">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
