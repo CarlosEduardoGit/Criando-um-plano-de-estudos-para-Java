@@ -5,13 +5,13 @@
     <summary><strong>Criando um plano de estudos para Java</strong></summary>
     <br />
     <div align="left">
-        <!-- Desafios - Banco Carrefour Woman Developer -->
+        <!-- Introdução à Plataforma Java -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-21-gft/algorithm/fibonacci-facil?back=/tests/d32632f6-a3f6-4081-a64b-6397e9d02f15">Desafios - Banco Carrefour Woman Developer</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-21-gft/algorithm/fibonacci-facil?back=/tests/d32632f6-a3f6-4081-a64b-6397e9d02f15">Desafios - Introdução à Plataforma Java</a></th>
             </tr>
             <tr>
-                <th colspan="3">Banco Carrefour Woman Developer</th>
+                <th colspan="3">Introdução à Plataforma Java</th>
             </tr>
             <tr>
                 <th>Desafio</th>
