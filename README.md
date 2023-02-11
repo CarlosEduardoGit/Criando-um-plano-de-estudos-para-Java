@@ -29,8 +29,8 @@
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Ho Ho Ho</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/Ho%20Ho%20Ho">Código</a></td>
+                <td><a href="https://web.dio.me/course/aprendendo-a-sintaxe-java/learning/f7af647f-d6ef-4663-8a3c-1f63129ee55f?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Aprendendo a Sintaxe Java - Introdução</a></td>
+                <td><a href="#">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
