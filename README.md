@@ -1,10 +1,8 @@
 # Criando um plano de estudos
 
-### Criando um plano de estudos para Java
-
-<!-- C Sharp -->
+<!-- Criando um plano de estudos para Java -->
 <details>
-    <summary><strong>C Sharp</strong></summary>
+    <summary><strong>Criando um plano de estudos para Java</strong></summary>
     <br />
     <div align="left">
         <!-- Desafios - Banco Carrefour Woman Developer -->
