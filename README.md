@@ -34,8 +34,8 @@
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Média 2</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/M%C3%A9dia%202">Código</a></td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/M%C3%A9dia%202">Lógica Condicional e Controle de Fluxos em Java</a></td>
+                <td><a href="#">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
