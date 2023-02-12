@@ -218,8 +218,8 @@
 # Criando um plano de estudos por assunto ou por tecnologia
 
 <a href="https://web.dio.me/course/dominando-ides-java/learning/b0f1ae39-6af7-4a2c-8fc2-c73ae8463c84">Dominando IDEs Java</a><br /><br />
-<a href="#">Algoritmo</a><br />
 <a href="https://web.dio.me/course/logica-de-programacao-essencial-1/learning/e667ddc6-ca15-4f37-9291-dea944593898">Lógica de Programação</a><br />
+<a href="#">Algoritmo</a><br />
 <a href="https://web.dio.me/course/estrutura-de-dados-em-java/learning/f5a9837e-ec31-4bca-bc6f-338450c076f7">Estrutura de Dados</a><br />
 <a href="https://web.dio.me/course/aprenda-o-que-sao-estrutura-de-dados-e-algoritmos/learning/a99f9576-69e9-4187-b3a7-e7ada5e5d6ad">Estrutura de Dados 2</a><br />
 
