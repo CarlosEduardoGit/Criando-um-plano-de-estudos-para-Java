@@ -80,9 +80,6 @@
                 <th colspan="3">Básico -</th>
             </tr>
             <tr>
-                <th colspan="3">everis Site Reliability Engineer Essentials</th>
-            </tr>
-            <tr>
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
