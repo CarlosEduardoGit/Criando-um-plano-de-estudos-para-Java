@@ -63,4 +63,43 @@
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/Tabuada">Código</a></td>
                 <td align="center">✔️</td>
             </tr>			
-        </table>  		
+        </table>
+    </div>
+</details>
+<!-- Java -->
+<details>
+    <summary><strong>Java</strong></summary>
+    <br />
+    <div align="left">
+        <!-- Desafio Aritmético em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafio-aritmetico-em-java/algorithm/acima-da-diagonal-secundaria?back=/track/inter-java-developer">Desafio Aritmético em Java</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Inter Java Developer</th>
+            </tr>
+            <tr>
+                <th colspan="3">everis Site Reliability Engineer Essentials</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Abaixo Diagonal Principal</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Principal">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Abaixo Diagonal Secundaria</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Secundaria">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Acima Diagonal Secundaria</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Acima%20Diagonal%20Secundaria">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                               
+        </table>  
