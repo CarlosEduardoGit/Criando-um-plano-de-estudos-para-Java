@@ -5,13 +5,13 @@
     <summary><strong>Criando um plano de estudos para Java</strong></summary>
     <br />
     <div align="left">
-        <!-- Básico -->
+        <!-- Básico - Conhecendo a Linguagem de Programação Java -->
         <table border=1>
             <tr>
                 <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-21-gft/algorithm/fibonacci-facil?back=/tests/d32632f6-a3f6-4081-a64b-6397e9d02f15">Básico</a></th>
             </tr>
             <tr>
-                <th colspan="3">Básico</th>
+                <th colspan="3">Básico - Conhecendo a Linguagem de Programação Java</th>
             </tr>
             <tr>
                 <th>Curso</th>
