@@ -39,8 +39,8 @@
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Pneu</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/Pneu">Código</a></td>
+                <td><a href="https://web.dio.me/course/estruturas-de-repeticao-e-arrays-em-java/learning/febaaad5-ea57-4389-a960-2907fa40041c?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Estruturas de Repetição e Arrays em Java</a></td>
+                <td><a href="#">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
