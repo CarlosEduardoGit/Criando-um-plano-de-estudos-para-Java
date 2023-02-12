@@ -44,28 +44,29 @@
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Polígonos Regulares Simples</td>
+                <td> - </td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/Pol%C3%ADgonos%20Regulares%20Simples">Código</a></td>
                 <td align="center">✔️</td>
             </tr>	
             <tr>
-                <td>PUM</td>
+                <td> - </td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/PUM">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Quadrado e ao Cubo</td>
+                <td> - </td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/Quadrado%20e%20ao%20Cubo">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Tabuada</td>
+                <td> - </td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/Tabuada">Código</a></td>
                 <td align="center">✔️</td>
             </tr>			
         </table>
     </div>
 </details>
+
 <!-- Criando um plano de estudos para C# -->
 <details>
     <summary><strong>Criando um plano de estudos para C#</strong></summary>
