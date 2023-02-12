@@ -104,7 +104,7 @@
     </div>
 </details>
 
-# Criando um plano de estudos por assunto
+# Criando um plano de estudos por assunto ou por tecnologia
 
 <a href="https://web.dio.me/course/dominando-ides-java/learning/b0f1ae39-6af7-4a2c-8fc2-c73ae8463c84">Dominando IDEs Java</a><br /><br />
 <a href="#">Algoritmo</a><br />
