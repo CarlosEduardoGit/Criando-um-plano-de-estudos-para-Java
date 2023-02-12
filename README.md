@@ -111,3 +111,6 @@
 <a href="https://web.dio.me/course/logica-de-programacao-essencial-1/learning/e667ddc6-ca15-4f37-9291-dea944593898">Lógica de Programação</a><br />
 <a href="https://web.dio.me/course/estrutura-de-dados-em-java/learning/f5a9837e-ec31-4bca-bc6f-338450c076f7">Estrutura de Dados</a><br />
 <a href="https://web.dio.me/course/aprenda-o-que-sao-estrutura-de-dados-e-algoritmos/learning/a99f9576-69e9-4187-b3a7-e7ada5e5d6ad">Estrutura de Dados 2</a><br />
+
+# Criando um plano de estudos por Professor ou Instrutor
+<p>Camila Cavalcante - DIO</p>
