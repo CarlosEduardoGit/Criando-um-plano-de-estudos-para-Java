@@ -141,6 +141,80 @@
     </div>
 </details>
 
+<!-- Criando um plano de estudos para React -->
+<details>
+    <summary><strong>Criando um plano de estudos para React</strong></summary>
+    <br />
+    <div align="left">
+        <!-- Básico - -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafio-aritmetico-em-java/algorithm/acima-da-diagonal-secundaria?back=/track/inter-java-developer">Básico -</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Básico -</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Abaixo Diagonal Principal</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Principal">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Abaixo Diagonal Secundaria</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Secundaria">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Acima Diagonal Secundaria</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Acima%20Diagonal%20Secundaria">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                               
+        </table>  
+    </div>
+</details>
+
+<!-- Criando um plano de estudos para React Native -->
+<details>
+    <summary><strong>Criando um plano de estudos para React Native</strong></summary>
+    <br />
+    <div align="left">
+        <!-- Básico - -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafio-aritmetico-em-java/algorithm/acima-da-diagonal-secundaria?back=/track/inter-java-developer">Básico -</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Básico -</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Abaixo Diagonal Principal</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Principal">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Abaixo Diagonal Secundaria</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Secundaria">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Acima Diagonal Secundaria</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Acima%20Diagonal%20Secundaria">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                               
+        </table>  
+    </div>
+</details>
+
 # Criando um plano de estudos por assunto ou por tecnologia
 
 <a href="https://web.dio.me/course/dominando-ides-java/learning/b0f1ae39-6af7-4a2c-8fc2-c73ae8463c84">Dominando IDEs Java</a><br /><br />
