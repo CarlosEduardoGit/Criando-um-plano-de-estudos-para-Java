@@ -66,18 +66,18 @@
         </table>
     </div>
 </details>
-<!-- Java -->
+<!-- Criando um plano de estudos para C# -->
 <details>
-    <summary><strong>Java</strong></summary>
+    <summary><strong>Criando um plano de estudos para C#</strong></summary>
     <br />
     <div align="left">
-        <!-- Desafio Aritmético em Java -->
+        <!-- Básico - -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafio-aritmetico-em-java/algorithm/acima-da-diagonal-secundaria?back=/track/inter-java-developer">Desafio Aritmético em Java</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafio-aritmetico-em-java/algorithm/acima-da-diagonal-secundaria?back=/track/inter-java-developer">Básico -</a></th>
             </tr>
             <tr>
-                <th colspan="3">Inter Java Developer</th>
+                <th colspan="3">Básico -</th>
             </tr>
             <tr>
                 <th colspan="3">everis Site Reliability Engineer Essentials</th>
