@@ -34,7 +34,7 @@
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/M%C3%A9dia%202">Lógica Condicional e Controle de Fluxos em Java</a></td>
+                <td><a href="https://web.dio.me/course/logica-condicional-e-controle-de-fluxos-em-java/learning/b5616a08-8f2f-4da0-bf9c-0fe384be2b42?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Lógica Condicional e Controle de Fluxos em Java</a></td>
                 <td><a href="#">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
