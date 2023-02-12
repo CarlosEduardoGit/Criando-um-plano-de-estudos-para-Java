@@ -101,3 +101,9 @@
                 <td align="center">✔️</td>
             </tr>                               
         </table>  
+    </div>
+</details>
+
+# Criando um plano de estudos 2
+
+<a href="https://web.dio.me/course/logica-de-programacao-essencial-1/learning/e667ddc6-ca15-4f37-9291-dea944593898">Lógica de Programação</a>
