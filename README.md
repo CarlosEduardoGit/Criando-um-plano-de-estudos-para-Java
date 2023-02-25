@@ -225,3 +225,8 @@
 
 # Criando um plano de estudos por Professor ou Instrutor
 <p>Camila Cavalcante - DIO</p>
+
+
+# Exeercícios
+
+<a href="https://web.dio.me/course/estruturas-de-repeticao-e-arrays-em-java/learning/febaaad5-ea57-4389-a960-2907fa40041c?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Exercícios</a><br /><br />
