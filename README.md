@@ -227,6 +227,7 @@
 
 # Criando um plano de estudos por Professor ou Instrutor
 <p>Camila Cavalcante - DIO</p>
+<p>Juliana Mascarenhas - DIO<p>
 
 
 # Exercícios
