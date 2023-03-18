@@ -219,7 +219,7 @@
 
 <a href="https://web.dio.me/course/dominando-ides-java/learning/b0f1ae39-6af7-4a2c-8fc2-c73ae8463c84">Dominando IDEs Java</a><br /><br />
 
-<a href="#">Introdução ao Desenvolvimento Moderno de Software</a><br /><br />
+<a href="https://web.dio.me/course/introducao-ao-desenvolvimento-moderno-de-software/learning/fc25f3f3-a43a-4aa8-9890-37ff2b32ce03?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Introdução ao Desenvolvimento Moderno de Software</a><br /><br />
 
 <a href="https://web.dio.me/course/introducao-a-programacao-e-pensamento-computacional/learning/285a4323-c6b0-4233-988e-4a2954065de3?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Introdução à Programação e Pensamento Computacional</a><br />
 <a href="https://web.dio.me/course/logica-de-programacao-essencial-1/learning/e667ddc6-ca15-4f37-9291-dea944593898">Lógica de Programação</a><br />
