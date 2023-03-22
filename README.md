@@ -228,8 +228,26 @@
 <a href="https://web.dio.me/course/aprenda-o-que-sao-estrutura-de-dados-e-algoritmos/learning/a99f9576-69e9-4187-b3a7-e7ada5e5d6ad">Estrutura de Dados 2</a><br />
 
 # Criando um plano de estudos por Professor ou Instrutor
-<p>Camila Cavalcante - DIO</p>
-<p>Juliana Mascarenhas - DIO<p>
+<p>Camila Cavalcante - DIO</p><br /><br />
+
+<a href="https://web.dio.me/course/estruturas-de-repeticao-e-arrays-em-java/learning/febaaad5-ea57-4389-a960-2907fa40041c?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Estruturas de Repetição e Arrays em Java</a><br /><br />
+
+<a href="https://web.dio.me/course/trabalhando-com-collections-java/learning/a34f3db6-de2b-44fa-a059-6ae7785695cc?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Trabalhando com Collections Java</a><br /><br />
+
+<a href="https://web.dio.me/course/debugging-java/learning/97fc1d8d-4f01-4856-a1a2-85c6117ccc75?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Debugging Java</a><br /><br />
+
+<a href="https://web.dio.me/course/tratamento-de-excecoes-em-java/learning/8ab022fe-7c0e-41bc-95de-daedca653d7c?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Tratamento de Exceções em Java</a><br /><br />
+
+
+
+
+
+
+<p>Juliana Mascarenhas - DIO<p><br /><br />
+    
+<a href="https://web.dio.me/course/principais-protocolos-de-comunicacao-da-internet/learning/c28da5ea-14a1-4fe9-87c1-f219c357b485?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Principais Protocolos de Comunicação da Internet</a><br /><br />
+    
+<a href="">-</a><br /><br />
 
 
 # Exercícios
