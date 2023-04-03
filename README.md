@@ -238,7 +238,9 @@
 
 <a href="https://web.dio.me/course/tratamento-de-excecoes-em-java/learning/8ab022fe-7c0e-41bc-95de-daedca653d7c?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Tratamento de Exceções em Java</a><br /><br />
 
-
+<p> DESAFIOS <p>
+    
+<a href="https://web.dio.me/lab/abstraindo-um-bootcamp-usando-orientacao-objetos-em-java/learning/8afcd659-978c-477c-93db-846b83c2927e">Abstraindo um Bootcamp Usando Orientação a Objetos em Java</a><br /><br />
 
 
 
