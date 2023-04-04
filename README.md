@@ -252,6 +252,12 @@
 <a href="">-</a><br /><br />
 
 
+<p>Gleyson Sampaio - DIO<p><br /><br />
+
+<a href="https://web.dio.me/course/imersao-no-spring-framework-com-spring-boot/learning/76dae2f8-07b8-4801-b66a-cdc38209ab87?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Imersão no Spring Framework com Spring Boot</a><br /><br />
+
+<a href="https://web.dio.me/course/criando-uma-api-rest-documentada-com-spring-web-e-swagger/learning/3f1916d5-4837-488a-8359-17ba9099d71c?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Criando uma API REST Documentada com Spring Web e Swagger</a><br /><br />
+
 # Exercícios
 
 <a href="https://web.dio.me/course/estruturas-de-repeticao-e-arrays-em-java/learning/febaaad5-ea57-4389-a960-2907fa40041c?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined">Exercícios</a><br /><br />
